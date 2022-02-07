@@ -1,0 +1,31 @@
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    height: 40;
+    padding: 10px;
+    align-items: center;
+    border-bottom: solid #E9E9E9  1px;
+}
+.header-block{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+}
+.header-button{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-width: 1px;
+    border-color: blue;
+    border-radius: 5px;
+    width: 80px;
+    height: 40px;
+}
+.header-back-button{
+    margin-right: 10px;
+    font-size: 50px;
+}
+.header-title{
+    font-size: 30px;
+}
